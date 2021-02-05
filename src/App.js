@@ -11,7 +11,8 @@ const configuration = {
   auth: {
       clientId: "1877b32e-fba5-4a06-a0fd-6f867ba4ea01",
       authority: "https://login.microsoftonline.com/common",
-      redirectUri: "http://localhost:3000",
+      redirectUri: "https://happy-mushroom-083bfe40f.azurestaticapps.net/",
+      // redirectUri: "http://localhost:3000",
   },
   cache: {
     cacheLocation: "localStorage", // This configures where your cache will be stored
